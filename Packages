@@ -1,69 +1,68 @@
-Package: com.danieltaylor.jl7dark
+Package: io.github.danieltaylor.jl7dark
 Version: 1.0
 Section: Themes
 Maintainer: Daniel Taylor
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
-Filename: debs//com.danieltaylor.jl7dark_1.0_iphoneos-arm.deb
-Size: 66358
-MD5sum: 1afea583b1dc98263ce734fb9e082972
+Filename: debs//io.github.danieltaylor.jl7dark_1.0_iphoneos-arm.deb
+Size: 66330
+MD5sum: da4d023c01ab215935a02daca67689da
 Description: Makes the JellyLock7 handler and icons black.  Apply with WinterBoard.
 name: Dark JellyLock7 Theme
 author: Daniel Taylor
 homepage: http://www.twitter.com/tanieldaylor/
 
-Package: com.danieltaylor.jl7nicolascage
+Package: io.github.danieltaylor.jl7nicolascage
 Version: 1.0
 Section: Themes
 Maintainer: Daniel Taylor
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
-Filename: debs//com.danieltaylor.jl7nicolascage_1.0_iphoneos-arm.deb
+Filename: debs//io.github.danieltaylor.jl7nicolascage_1.0_iphoneos-arm.deb
 Size: 44842
-MD5sum: a08c57ca16d94281e8cb16ea364da592
+MD5sum: b5ff059231af1e72474db8f0a87d44c6
 Description: A Nicolas Cage theme for the JellyLock7 handler. Apply with WinterBoard.  Image source: http://files.gamebanana.com/img/ico/sprays/516c32f08e03d.png
 name: Nicholas Cage JellyLock7 Theme
 author: Daniel Taylor
 homepage: http://www.twitter.com/tanieldaylor/
 
-Package: com.danieltaylor.jl7solid
+Package: io.github.danieltaylor.jl7solid
 Version: 1.0
 Section: Themes
 Maintainer: Daniel Taylor
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
-Filename: debs//com.danieltaylor.jl7solid_1.0_iphoneos-arm.deb
-Size: 37352
-MD5sum: 0ace8493c6618e69e86615b7f68f7a6e
+Filename: debs//io.github.danieltaylor.jl7solid_1.0_iphoneos-arm.deb
+Size: 37360
+MD5sum: a6f2039467e18291d8a76ad37f85b34f
 Description: A theme based on the original JellyLock7 handler, but solid instead of a ring. Apply with WinterBoard.
 name: Solid JellyLock7 Theme
 author: Daniel Taylor
 homepage: http://www.twitter.com/tanieldaylor/
 
-Package: com.danieltaylor.rainbowapplerespring
+Package: io.github.danieltaylor.rainbowapplerespring
 Version: 1.0
 Section: Themes
 Maintainer: Daniel Taylor
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: debs//com.danieltaylor.rainbowapplerespring_1.0_iphoneos-arm.deb
-Size: 10008
-MD5sum: 4e46797f8d37145252fe1cf07da1751c
+Filename: debs//io.github.danieltaylor.rainbowapplerespring_1.0_iphoneos-arm.deb
+Size: 9954
+MD5sum: b735d5e2d4530e6175f40320a36c45b7
 Description: Changes the respring logo to the classic rainbow Apple logo! Apply with WinterBoard.
-depiction: https://raw.githubusercontent.com/danieltaylor/repo/gh-pages/imgs/applerainbowrespring-screenshot.png
 name: Rainbow Apple Respring Logo
 author: Daniel Taylor
 homepage: http://www.twitter.com/tanieldaylor/
 
-Package: com.danieltaylor.squaremessages
+Package: io.github.danieltaylor.squaremessages
 Version: 1.0
 Section: Themes
 Maintainer: Daniel Taylor
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: debs//com.danieltaylor.squaremessages_1.0_iphoneos-arm.deb
-Size: 3592
-MD5sum: 9f64913c5272d96ff165f7bc5cf5ff57
+Filename: debs//io.github.danieltaylor.squaremessages_1.0_iphoneos-arm.deb
+Size: 3582
+MD5sum: 63f7545794fb7ad2a5c77670fffcd581
 Description: Makes the message bubbles rectangular with sharp edges. Apply with WinterBoard.
 name: Square Messages
 author: Daniel Taylor
