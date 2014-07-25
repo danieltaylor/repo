@@ -5,9 +5,10 @@ Maintainer: Daniel Taylor
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7dark_1.0_iphoneos-arm.deb
-Size: 66330
-MD5sum: da4d023c01ab215935a02daca67689da
+Size: 66370
+MD5sum: 0286f3e4e87b8a24b096fdb268d84c58
 Description: Makes the JellyLock7 handler and icons black.  Apply with WinterBoard.
+depiction: http://danieltaylor.github.io/repo/depiction/jl7dark.html
 name: Dark JellyLock7 Theme
 author: Daniel Taylor
 homepage: http://www.twitter.com/tanieldaylor/
