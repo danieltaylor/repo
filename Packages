@@ -5,8 +5,8 @@ Maintainer: Daniel Taylor
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7dark_1.0_iphoneos-arm.deb
-Size: 66354
-MD5sum: 80844f9d38fa43aa4182f396234a4dfb
+Size: 66502
+MD5sum: a9c0fae8251c849a32ed9f07e31a4e17
 Description: Makes the JellyLock7 handler and icons black.  Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7dark.html
 name: Dark JellyLock7 Theme
@@ -40,6 +40,21 @@ MD5sum: 5fa9e2102f6bd548205ef00bf245388c
 Description: A theme based on the original JellyLock7 handler, but solid instead of a ring. Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7solid.html
 name: Solid JellyLock7 Theme
+author: Daniel Taylor
+homepage: http://danieltaylor.github.io
+
+Package: io.github.danieltaylor.jl7touchid
+Version: 1.0
+Section: Themes
+Maintainer: Daniel Taylor
+Depends: winterboard, com.maxkatzmann.jellylock7
+Architecture: iphoneos-arm
+Filename: debs//io.github.danieltaylor.jl7touchid_1.0_iphoneos-arm.deb
+Size: 61120
+MD5sum: 2113fc5c2e0179cae13d7b286930be6f
+Description: Makes the JellyLock7 handler the Touch ID logo.  Apply with WinterBoard.
+depiction: http://danieltaylor.github.io/repo/depiction/jl7touchid.html
+name: Touch ID Logo JellyLock7 Theme
 author: Daniel Taylor
 homepage: http://danieltaylor.github.io
 
