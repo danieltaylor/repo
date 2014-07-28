@@ -13,6 +13,21 @@ name: Dark JellyLock7 Theme
 author: Daniel Taylor
 homepage: http://danieltaylor.github.io
 
+Package: io.github.danieltaylor.jl7fancygentleman
+Version: 1.0
+Section: Themes
+Maintainer: Daniel Taylor
+Depends: winterboard, com.maxkatzmann.jellylock7
+Architecture: iphoneos-arm
+Filename: debs//io.github.danieltaylor.jl7fancygentleman_1.0_iphoneos-arm.deb
+Size: 16160
+MD5sum: 88ba2d871b2defdbd757eb5c8e0efca2
+Description: Makes the JellyLock7 handler appear as a suspicious, but fancy, gentleman. Requested on reddit by /u/the_moon_walker. Apply with WinterBoard.
+depiction: http://danieltaylor.github.io/repo/depiction/jl7fancygentleman.html
+name: Fancy Gentleman JellyLock7 Theme
+author: Daniel Taylor
+homepage: http://danieltaylor.github.io
+
 Package: io.github.danieltaylor.jl7nicolascage
 Version: 1.0
 Section: Themes
