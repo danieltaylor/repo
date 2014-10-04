@@ -1,120 +1,134 @@
 Package: io.github.danieltaylor.jl7dark
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7dark_1.0_iphoneos-arm.deb
-Size: 66502
-MD5sum: a9c0fae8251c849a32ed9f07e31a4e17
+Size: 66512
+MD5sum: 79591a0f4d2ec9a5975223774c83a9b4
 Description: Makes the JellyLock7 handler and icons black.  Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7dark.html
 name: Dark JellyLock7 Theme
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.jl7fancygentleman
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7fancygentleman_1.0_iphoneos-arm.deb
-Size: 16160
-MD5sum: 88ba2d871b2defdbd757eb5c8e0efca2
+Size: 16174
+MD5sum: a6ff02d96e87c1ca6ff4dec20509c491
 Description: Makes the JellyLock7 handler appear as a suspicious, but fancy, gentleman. Requested on reddit by /u/the_moon_walker. Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7fancygentleman.html
 name: Fancy Gentleman JellyLock7 Theme
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.jl7nicolascage
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7nicolascage_1.0_iphoneos-arm.deb
-Size: 44792
-MD5sum: bc17a80b45486dc7431007d052dd5ab7
+Size: 44806
+MD5sum: a1e8f8e60e94ca784bd93ee4aa249083
 Description: A Nicolas Cage theme for the JellyLock7 handler. Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7nicolascage.html
 name: Nicolas Cage JellyLock7 Theme
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.jl7solid
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7solid_1.0_iphoneos-arm.deb
-Size: 37370
-MD5sum: 5fa9e2102f6bd548205ef00bf245388c
+Size: 37380
+MD5sum: 396c73aafbc217eb0c8454d66efa496d
 Description: A theme based on the original JellyLock7 handler, but solid instead of a ring. Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7solid.html
 name: Solid JellyLock7 Theme
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.jl7touchid
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard, com.maxkatzmann.jellylock7
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.jl7touchid_1.0_iphoneos-arm.deb
-Size: 61120
-MD5sum: 2113fc5c2e0179cae13d7b286930be6f
-Description: Makes the JellyLock7 handler the Touch ID logo.  Apply with WinterBoard.
+Size: 61154
+MD5sum: 0f721f799fa55c2fd8eef57341774c63
+Description: Makes the JellyLock7 handler the Touch ID logo.  Requested on reddit by /u/daditda.  Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/jl7touchid.html
 name: Touch ID Logo JellyLock7 Theme
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.opennotifierseven
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.opennotifierseven_1.0_iphoneos-arm.deb
-Size: 2646
-MD5sum: 766ebe833bf7ae5fec5070a8b07c5339
+Size: 2656
+MD5sum: c2b3afd8be2aff9a1690eb78d21bde15
 Description: Replaces some of the outdated icons that are part of OpenNotifier with icons better suited for iOS 7.
 depiction: http://danieltaylor.github.io/repo/depiction/opennotifierseven.html
 name: Seven Theme for OpenNotifier
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.rainbowapplerespring
 Version: 1.1
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.rainbowapplerespring_1.1_iphoneos-arm.deb
-Size: 27004
-MD5sum: 438d9dc498723beed121751c3e54c987
+Size: 27016
+MD5sum: 6e13bd19f5fd925176afd732b63c6566
 Description: Changes the respring logo to the classic rainbow Apple logo! Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/rainbowapplerespring.html
 name: Rainbow Apple Respring Logo
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
+homepage: http://danieltaylor.github.io
+
+Package: io.github.danieltaylor.ringerstatusicon
+Version: 1.0
+Section: Themes
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
+Architecture: iphoneos-arm
+Filename: debs//io.github.danieltaylor.ringerstatusicon_1.0_iphoneos-arm.deb
+Size: 1566
+MD5sum: 380703283b34a919cfabc697d22a2222
+Description: A ringer icon for the status bar.  Use with tweaks such as OpenNotifier or Protean.
+depiction: http://danieltaylor.github.io/repo/depiction/ringerstatusicon.html
+name: RingerStatusIcon
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.squaremessages
 Version: 1.0
 Section: Themes
-Maintainer: Daniel Taylor
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: winterboard
 Architecture: iphoneos-arm
 Filename: debs//io.github.danieltaylor.squaremessages_1.0_iphoneos-arm.deb
-Size: 3586
-MD5sum: c16dfefec055db9e015e96e6b6cfd070
+Size: 3596
+MD5sum: 8d30de2dbe8b24d32835dd504c105e0f
 Description: Makes the message bubbles rectangular with sharp edges. Apply with WinterBoard.
 depiction: http://danieltaylor.github.io/repo/depiction/squaremessages.html
 name: Square Messages
-author: Daniel Taylor
+author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
