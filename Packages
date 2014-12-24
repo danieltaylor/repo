@@ -133,14 +133,14 @@ author: Daniel Taylor <repo@danieltaylor.tk>
 homepage: http://danieltaylor.github.io
 
 Package: io.github.danieltaylor.yosemitealkaline
-Version: 0.2
+Version: 0.3
 Section: Addons (Alkaline)
 Maintainer: Daniel Taylor <repo@danieltaylor.tk>
 Depends: com.fortysixandtwo.alkaline
 Architecture: iphoneos-arm
-Filename: debs//io.github.danieltaylor.yosemitealkaline_0.2_iphoneos-arm.deb
-Size: 28720
-MD5sum: 648213b08c85e7501fd1c5f51e7bc33e
+Filename: debs//io.github.danieltaylor.yosemitealkaline_0.3_iphoneos-arm.deb
+Size: 42890
+MD5sum: 73bcfb9d3d9e7d5c865b712a42b6a33f
 Description: An OS X Yosemite battery theme.  Apply with Alkaline.
 depiction: http://danieltaylor.github.io/repo/depiction/yosemitealkaline.html
 name: Yosemite Battery for Alkaline
