@@ -1,3 +1,33 @@
+Package: io.github.danieltaylor.iosemiteforipad
+Version: 0.1
+Section: Themes
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
+Depends: winterboard, cy+model.ipad
+Architecture: iphoneos-arm
+Filename: debs//io.github.danieltaylor.iosemiteforipad_0.1_iphoneos-arm.deb
+Size: 8593228
+MD5sum: de0036f0a759e9be1ca4dd09b3838869
+Description: An OS X Yosemite theme for iOS 8.  Apply with WinterBoard.
+depiction: http://danieltaylor.github.io/repo/depiction/iosemite.html
+name: iOSemite for iPad
+author: Daniel Taylor <repo@danieltaylor.tk>
+homepage: http://danieltaylor.github.io
+
+Package: io.github.danieltaylor.iosemiteforiphone
+Version: 0.1
+Section: Themes
+Maintainer: Daniel Taylor <repo@danieltaylor.tk>
+Depends: winterboard, cy+model.iphone | cy+model.ipod
+Architecture: iphoneos-arm
+Filename: debs//io.github.danieltaylor.iosemiteforiphone_0.1_iphoneos-arm.deb
+Size: 1655398
+MD5sum: 39763895e5a39b24eea75bbbdca3fe36
+Description: An OS X Yosemite theme for iOS 8.  Apply with WinterBoard.
+depiction: http://danieltaylor.github.io/repo/depiction/iosemite.html
+name: iOSemite for iPhone
+author: Daniel Taylor <repo@danieltaylor.tk>
+homepage: http://danieltaylor.github.io
+
 Package: io.github.danieltaylor.jl7dark
 Version: 1.0
 Section: Themes
