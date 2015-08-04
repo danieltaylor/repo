@@ -1,0 +1,29 @@
+body {
+	font-family: "Roboto";
+	font-weight: 100;
+}
+
+h1 {
+	font-family: "Roboto";
+	font-weight: 700;
+	text-align: center;
+}
+
+a {
+	color: gray;
+}
+
+footer {
+	text-align: center;
+	color: gray;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 60px;
+	width: 100%;
+}
+
+#title {
+	font-weight:700;
+	margin-top: 5px;
+}
